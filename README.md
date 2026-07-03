@@ -1,8 +1,6 @@
-# Aomi Playground Example
+# Aomi Playground 
 
-This is the starter app behind Aomi's "deploy an example" onboarding. If you got
-here from the Aomi portal, **you already have this agent deployed** — this repo
-is its source. Clone it, change a tool, and redeploy to make it your own.
+This is Aomi Playground example
 
 ## What it does
 
